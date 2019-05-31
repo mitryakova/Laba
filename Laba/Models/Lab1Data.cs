@@ -7,7 +7,7 @@ namespace Laba.Models
 {
     public class Lab1Data
     {
-        public Guid Id { get; set; } = Guid.NewGuid();
+        public Guid Id { get; set; } = Guid.Empty;
         public string Surname { get; set; }
         public string Name { get; set; }
         public string Firstname { get; set; }

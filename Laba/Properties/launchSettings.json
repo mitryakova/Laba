@@ -20,8 +20,8 @@
     "Laba": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
-      "applicationUrl": "http://localhost:5000",
+      "launchUrl": "api/version",
+      "applicationUrl": "http://localhost:9029",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
