@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Version>0.0.1-RC3</Version>
+    <Authors>Mitryakova, Duplinskiy</Authors>
   </PropertyGroup>
 
   <ItemGroup>
