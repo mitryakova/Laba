@@ -13,7 +13,6 @@ namespace Laba.Controllers
     [ApiController]
     public class VersionController : ControllerBase
     {
-        // GET api/values
         [HttpGet]
         public ActionResult<string> Get()
         {
